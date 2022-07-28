@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df8f2434.chunk.css",
+    "main.js": "/static/js/main.da401d32.chunk.js",
+    "main.js.map": "/static/js/main.da401d32.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df8c8be7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df8c8be7.js.map",
+    "static/js/2.3b08e1ab.chunk.js": "/static/js/2.3b08e1ab.chunk.js",
+    "static/js/2.3b08e1ab.chunk.js.map": "/static/js/2.3b08e1ab.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ad5af832deec654232a0ac4f6688800.js": "/precache-manifest.3ad5af832deec654232a0ac4f6688800.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.df8f2434.chunk.css.map": "/static/css/main.df8f2434.chunk.css.map",
+    "static/js/2.3b08e1ab.chunk.js.LICENSE.txt": "/static/js/2.3b08e1ab.chunk.js.LICENSE.txt",
+    "static/media/idear2.png": "/static/media/idear2.00cb1559.png",
+    "static/media/interview.png": "/static/media/interview.b16ada0c.png",
+    "static/media/invisible-button.png": "/static/media/invisible-button.d0b4a4b6.png",
+    "static/media/logo.png": "/static/media/logo.4046aaaa.png",
+    "static/media/logo2.png": "/static/media/logo2.ea55dbdf.png",
+    "static/media/teacher.png": "/static/media/teacher.83757f27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df8c8be7.js",
+    "static/js/2.3b08e1ab.chunk.js",
+    "static/css/main.df8f2434.chunk.css",
+    "static/js/main.da401d32.chunk.js"
+  ]
+}
