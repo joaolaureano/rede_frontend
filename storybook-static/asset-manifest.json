@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.67f09c61.chunk.css",
+    "main.js": "./main.ec5279bced99abbff8b0.bundle.js",
+    "main.css.map": "./static/css/main.67f09c61.chunk.css.map",
+    "main.js.map": "./main.ec5279bced99abbff8b0.bundle.js.map",
+    "runtime~main.js": "./runtime~main.ec5279bced99abbff8b0.bundle.js",
+    "runtime~main.js.map": "./runtime~main.ec5279bced99abbff8b0.bundle.js.map",
+    "vendors~main.js": "./vendors~main.ec5279bced99abbff8b0.bundle.js",
+    "vendors~main.js.map": "./vendors~main.ec5279bced99abbff8b0.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.daa118a151c881236c32be181ee7e1ad.js": "./precache-manifest.daa118a151c881236c32be181ee7e1ad.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/invisible-button.png": "./static/media/invisible-button.d0b4a4b6.png",
+    "static/media/logo2.png": "./static/media/logo2.ea55dbdf.png",
+    "static/media/style.css": "./static/media/style.5ae4a044.css",
+    "static/media/teacher.png": "./static/media/teacher.83757f27.png",
+    "vendors~main.ec5279bced99abbff8b0.bundle.js.LICENSE.txt": "./vendors~main.ec5279bced99abbff8b0.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.ec5279bced99abbff8b0.bundle.js",
+    "vendors~main.ec5279bced99abbff8b0.bundle.js",
+    "static/css/main.67f09c61.chunk.css",
+    "main.ec5279bced99abbff8b0.bundle.js"
+  ]
+}
